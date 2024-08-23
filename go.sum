@@ -61,8 +61,8 @@ github.com/stretchr/testify v1.9.0 h1:HtqpIVDClZ4nwg75+f6Lvsy/wHu+3BoSGCbBAcpTsT
 github.com/stretchr/testify v1.9.0/go.mod h1:r2ic/lqez/lEtzL7wO/rwa5dbSLXVDPFyf8C91i36aY=
 github.com/subosito/gotenv v1.6.0 h1:9NlTDc1FTs4qu0DDq7AEtTPNw6SVm7uBMsUCUjABIf8=
 github.com/subosito/gotenv v1.6.0/go.mod h1:Dk4QP5c2W3ibzajGcXpNraDfq2IrhjMIvMSWPKKo0FU=
-github.com/templatedop/config v0.0.1 h1:wFbvG8c90sStAAg2wZ/ayjJEFliSupaKt/9/Z7tRJb4=
-github.com/templatedop/config v0.0.1/go.mod h1:Gta9UKIY+syrSAT7icdvlapNj9N8gUXJSncP/Lcb6yE=
+github.com/templatedop/fxconfigs v0.0.2 h1:N586khn3R8ede0EMgmwHiOajzJgOJfA9l9ajVyfDFZs=
+github.com/templatedop/fxconfigs v0.0.2/go.mod h1:HQivjJGVr/Q2rtHORa8kwhRLHtIJwECKuc1WxTmDGcQ=
 github.com/templatedop/util v0.0.1 h1:C3VNL2dJSwZtDA/kyeDmp+7Rr1mfNci4KOqdc4V2XxQ=
 github.com/templatedop/util v0.0.1/go.mod h1:cAwvW2VPIwhx0FkkdmQ9oGHXtrwjgNRxZ65a53YjX8Y=
 go.uber.org/dig v1.18.0 h1:imUL1UiY0Mg4bqbFfsRQO5G4CGRBec/ZujWTvSVp3pw=

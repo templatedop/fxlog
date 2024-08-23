@@ -4,7 +4,7 @@ go 1.22.1
 
 require (
 	github.com/rs/zerolog v1.33.0
-	github.com/templatedop/config v0.0.1
+	github.com/templatedop/fxconfigs v0.0.2
 	github.com/templatedop/util v0.0.1
 	go.uber.org/fx v1.22.2
 )

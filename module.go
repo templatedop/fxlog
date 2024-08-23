@@ -4,8 +4,8 @@ import (
 	"io"
 	"os"
 	 //config "gotemplate/config"
-	// config "github.com/templatedop/fxconfigs"
-	 "github.com/templatedop/config"
+	  "github.com/templatedop/fxconfigs/config"
+	 //"github.com/templatedop/config"
 	"github.com/templatedop/fxlog/fxloggertest"
 
 	"github.com/rs/zerolog"
